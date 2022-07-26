@@ -13,3 +13,8 @@ All of the projects are created with **Tailwind's PlayCDN**
 | 03  | [Product Modal](https://github.com/hassancodess/tailwind-css-mini-projects/tree/master/product-modal)                     | [Live Demo](https://hassancodess-tailwind-css-mini-projects.netlify.app/product-modal/index.html)           |
 | 04  | [Image Gallery](https://github.com/hassancodess/tailwind-css-mini-projects/tree/master/image-gallery)                     | [Live Demo](https://hassancodess-tailwind-css-mini-projects.netlify.app/image-gallery/index.html)           |
 | 05  | [Login Modal](https://github.com/hassancodess/tailwind-css-mini-projects/tree/master/image-gallery)                       | [Live Demo](https://hassancodess-tailwind-css-mini-projects.netlify.app/login-modal/index.html)             |
+
+
+## Demo
+
+[Tailwind CSS Mini Projects](https://hassancodess-tailwind-css-mini-projects.netlify.app/)
